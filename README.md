@@ -1,37 +1,47 @@
-# Hello World! I'm Leandro de França Pereira
+# Hello World! I'm Leandro de França Pereira 👋
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science student at the
-Federal University of Paraná (UFPR).
-
-I'm currently developing my programming
-skills and exploring different areas of
-software development.
+- 🎓 Computer Science student at the Federal University of Paraná (UFPR).
+- 💻 Currently developing my programming skills by learning software development and web technologies.
+- 🚀Interested in programming, technology and software engineering.
 
 ### 💻 Tech Stack
 
-### 📚 Academic Background
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,react,git,github,vscode,linux" />
+</div>
 
-Computer Science – UFPR
+### 🎓 Academic Background
+
+- **Computer Science**
+  - Federal University of Paraná (UFPR)
+  - Brazil
 
 ### 🚀 Projects
 
+- **Programming in C**
+  - Data structures, algorithms, memory management.
+  - Academic projects developed at UFPR Programming Courses.
+
+- **Web Development**
+  - HTML, CSS, JavaScript and React.js.
+
 ### 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandroofp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroofp&layout=compact&theme=tokyonight"/>
+</div>
 
 ### 🌎 Let's Connect
 
-<!--
-**leandroofp/leandroofp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href="https://github.com/leandroofp">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/leandro-d-44a4613b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
