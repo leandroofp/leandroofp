@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hello World! I'm Leandro de França Pereira
+
+### 👨‍💻 About Me
+
+I'm a Computer Science student at the
+Federal University of Paraná (UFPR).
+
+I'm currently developing my programming
+skills and exploring different areas of
+software development.
+
+### 💻 Tech Stack
+
+### 📚 Academic Background
+
+Computer Science – UFPR
+
+### 🚀 Projects
+
+### 📊 GitHub Statistics
+
+### 🌎 Let's Connect
 
 <!--
 **leandroofp/leandroofp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
