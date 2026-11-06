@@ -27,14 +27,6 @@
 - **Web Development**
   - HTML, CSS, JavaScript and React.js.
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandroofp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroofp&layout=compact&theme=tokyonight"/>
-</div>
-
 ### 🌎 Let's Connect
 
 <div align="left">
